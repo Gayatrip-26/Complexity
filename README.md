@@ -1,1 +1,1 @@
-# GitGraph
+# GitGraph.
